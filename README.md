@@ -13,16 +13,6 @@ This project explores real-world wireless LAN security vulnerabilities through c
 
 ---
 
-## 👥 Team Members & Contributions
-
-| Name                  | Student ID | Contribution |
-|-----------------------|------------|--------------|
-| **Vaishnavi Kalathur** | 40292270   | **Deauthentication & Password Recovery**<br>- Enabled monitor mode using `airmon-ng`.<br>- Captured WPA handshake using `aireplay-ng` and `airodump-ng`.<br>- Successfully cracked the Wi-Fi password using `aircrack-ng`. |
-| **Hariharan Duraisingh** | 40303001   | **DNS Spoofing through MITM**<br>- Configured DNS spoofing with `dnsspoof`.<br>- Redirected victims to fake login pages hosted via Apache.<br>- Demonstrated phishing via ARP and DNS spoofing in a local network. |
-| **Raghu Pavan Annam** | 40303699   | **Fake Access Point (Evil Twin)**<br>- Set up rogue AP using `airbase-ng`, `dnsmasq`, and `hostapd`.<br>- Logged DNS spoofed traffic in a controlled lab setup.<br>- Enabled NAT and packet forwarding using `iptables`. |
-
----
-
 ## 🧪 Tools & Technologies
 
 - Kali Linux
@@ -37,8 +27,3 @@ This project explores real-world wireless LAN security vulnerabilities through c
 ## ⚠️ Disclaimer
 
 This project was conducted in a controlled academic environment. All attacks were performed on personal networks with proper permissions. **Never attempt these attacks on unauthorized networks.**
-
----
-
-## 📂 Repository Structure (if applicable)
-
