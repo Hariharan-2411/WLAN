@@ -1,4 +1,4 @@
-# 🛡️ INSE 6190 - Wireless Network Security
+# Wireless Network Security
 
 A team project submitted for the course **INSE 6190 Wireless Network Security** under the supervision of **Professor Dr. Ayda Basyouni** at Concordia University. This project demonstrates various Wi-Fi security attacks and countermeasures using practical lab environments.
 
